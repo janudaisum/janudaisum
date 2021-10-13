@@ -1,1 +1,1 @@
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="SingleDevelopers/607" data-width="100%"></script>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=janudaisum&label=Profile%20views&color=0e75b6&style=plastic" alt="janudaisum" /> </p>
